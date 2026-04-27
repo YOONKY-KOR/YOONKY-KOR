@@ -74,4 +74,4 @@
 
 ## 📬 Contact
 
-[![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://yoonky-kor.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonky0917/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOONKY-KOR) [![Email](https://img.shields.io/badge/EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdduf86@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://yoonky-kor.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonky0917/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOONKY-KOR)[![Email](https://img.shields.io/badge/EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdduf86@gmail.com)
