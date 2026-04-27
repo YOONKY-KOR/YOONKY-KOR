@@ -69,7 +69,8 @@
 
 ## 📝 Blog
 
-<!-- BLOG-POST-LIST:START -->- [About](https://yoonky-kor.github.io/about/) — 2026-00-17- [AI 시대의 아키텍처 혁신: 분산 지능형 시스템 구축 전략](https://yoonky-kor.github.io/architecture/ai-architecture-distributed-systems/) — 2026-00-17<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 더 많은 포스팅은 [yoonky-kor.github.io](https://yoonky-kor.github.io/)에서 확인하세요.
 
