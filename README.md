@@ -69,7 +69,10 @@
 
 ## 📝 Blog
 
-최신 포스팅은 [yoonky-kor.github.io](https://yoonky-kor.github.io/)에서 확인하세요.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+더 많은 포스팅은 [yoonky-kor.github.io](https://yoonky-kor.github.io/)에서 확인하세요.
 
 ---
 
