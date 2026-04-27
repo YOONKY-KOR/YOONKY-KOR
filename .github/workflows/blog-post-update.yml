@@ -21,5 +21,5 @@ jobs:
           readme_path: README.md
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           url_filter: "about,tags,categories"
-          template: "- [$title]($url)"
+          template: "- [$title]($url) - $date"
           date_format: "yyyy-MM-dd"
