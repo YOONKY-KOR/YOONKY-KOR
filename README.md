@@ -30,8 +30,7 @@
 **Cloud & Infra**
 
 <!-- Azure: Microsoft 클라우드 플랫폼 -->
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- GitHub Actions: CI/CD 자동화 -->![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)<!-- Terraform: 멀티클라우드 IaC 도구 -->![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)<!-- Bicep: Azure 전용 IaC 언어 (ARM 템플릿 대체) -->![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- Docker: 컨테이너 빌드·실행 -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<!-- Kubernetes: 컨테이너 오케스트레이션 -->![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- GitHub Actions: CI/CD 자동화 -->![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)<!-- Terraform: 멀티클라우드 IaC 도구 -->![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)<!-- Bicep: Azure 전용 IaC 언어 (ARM 템플릿 대체) -->![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- Docker: 컨테이너 빌드·실행 -->![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<!-- Kubernetes: 컨테이너 오케스트레이션 -->![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 <!-- ── AI & Automation ─────────────────────────────────────── -->
 **AI & Automation**
