@@ -62,9 +62,9 @@
 
 <!-- Stats 카드 — dark/light 모드 자동 전환
   include_all_commits=true  → private 포함 전체 커밋 집계
-  rank_icon=github          → 랭크를 GitHub 로고로 표시 (github / percentile / default)
+  rank_icon=github          → 랭크 아이콘 (github / percentile / default)
   custom_title=             → 카드 상단 제목 텍스트
-  width="480"               → 카드 표시 너비 (px) -->
+  width="480"               → 카드 너비 (px) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=1d1e20&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&custom_title=KY's%20GitHub" />
