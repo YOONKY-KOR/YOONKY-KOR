@@ -30,73 +30,32 @@
 **Cloud & Infra**
 
 <!-- Azure: Microsoft 클라우드 플랫폼 -->
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<!-- GitHub Actions: CI/CD 자동화 -->
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-<!-- Terraform: 멀티클라우드 IaC 도구 -->
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-<!-- Bicep: Azure 전용 IaC 언어 (ARM 템플릿 대체) -->
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<!-- Docker: 컨테이너 빌드·실행 -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<!-- Kubernetes: 컨테이너 오케스트레이션 -->
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- GitHub Actions: CI/CD 자동화 -->![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)<!-- Terraform: 멀티클라우드 IaC 도구 -->![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)<!-- Bicep: Azure 전용 IaC 언어 (ARM 템플릿 대체) -->![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- Docker: 컨테이너 빌드·실행 -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<!-- Kubernetes: 컨테이너 오케스트레이션 -->![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 <!-- ── AI & Automation ─────────────────────────────────────── -->
 **AI & Automation**
 
 <!-- Claude AI: Anthropic의 AI 모델 -->
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
-
-<!-- OpenAI: GPT 계열 AI API -->
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-<!-- LangChain: LLM 앱 개발 프레임워크 -->
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)<!-- OpenAI: GPT 계열 AI API -->![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)<!-- LangChain: LLM 앱 개발 프레임워크 -->![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 <!-- ── Languages ───────────────────────────────────────────── -->
 **Languages**
 
 <!-- Python: 데이터·자동화·AI 스크립트 -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<!-- PowerShell: Windows/Azure 자동화 스크립트 -->
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-<!-- Bash: Linux/Mac 셸 스크립트 -->
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-<!-- TypeScript: 타입이 있는 JavaScript -->
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-<!-- YAML: 설정 파일·CI/CD 파이프라인 작성 언어 -->
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<!-- PowerShell: Windows/Azure 자동화 스크립트 -->![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)<!-- Bash: Linux/Mac 셸 스크립트 -->![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)<!-- TypeScript: 타입이 있는 JavaScript -->![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<!-- YAML: 설정 파일·CI/CD 파이프라인 작성 언어 -->![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 <!-- ── Database & Storage ──────────────────────────────────── -->
 **Database & Storage**
 
 <!-- Azure Cosmos DB: Azure 완전관리형 NoSQL DB -->
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<!-- PostgreSQL: 오픈소스 관계형 DB -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-<!-- Redis: 인메모리 캐시·세션 저장소 -->
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)<!-- PostgreSQL: 오픈소스 관계형 DB -->![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<!-- Redis: 인메모리 캐시·세션 저장소 -->![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
 <!-- ── Tools ───────────────────────────────────────────────── -->
 **Tools**
 
 <!-- Hugo: 정적 사이트 생성기 (이 블로그에서 사용 중) -->
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)
-
-<!-- Notion: 문서·지식 관리 -->
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white)<!-- Notion: 문서·지식 관리 -->![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
