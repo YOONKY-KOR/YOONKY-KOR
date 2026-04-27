@@ -70,6 +70,7 @@
 ## 📝 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude 연동 전체 상태 체크 리포트 (2026-04-20)](https://yoonky-kor.github.io/posts/claude-integration-status-check-2026-04-20/) - 2026-04-20
 - [AI 시대의 아키텍처 혁신: 분산 지능형 시스템 구축 전략](https://yoonky-kor.github.io/architecture/ai-architecture-distributed-systems/) - 2026-04-17
 <!-- BLOG-POST-LIST:END -->
 
