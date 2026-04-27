@@ -50,29 +50,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- 가로 2열: 좌(Stats) / 우(Top Languages)
-  height="165" → 카드 높이 조절
-  table 태그로 나란히 배치 -->
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=1d1e20&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&custom_title=KY's%20GitHub" />
-        <img src="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0078D4&icon_color=0078D4&rank_icon=github&custom_title=KY's%20GitHub"
-          alt="GitHub Stats" height="165" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=1d1e20&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=ffffff&title_color=0078D4&langs_count=6"
-          alt="Top Languages" height="165" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- 테두리 없이 가로 나란히 배치 — picture 두 개를 div 안에 붙여서 inline 렌더링 -->
+<div align="center"><picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=1d1e20&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&custom_title=KY's%20GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0078D4&icon_color=0078D4&rank_icon=github&custom_title=KY's%20GitHub"
+    alt="GitHub Stats" height="165" />
+</picture><picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=1d1e20&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=ffffff&title_color=0078D4&langs_count=6"
+    alt="Top Languages" height="165" />
+</picture></div>
 
 ---
 
