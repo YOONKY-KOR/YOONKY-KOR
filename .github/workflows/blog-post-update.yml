@@ -2,12 +2,14 @@ name: Update Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 자정 UTC 실행
-  workflow_dispatch:       # 수동 실행 허용
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -18,5 +20,6 @@ jobs:
           max_post_count: 3
           readme_path: README.md
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          template: "- [$title]($url) — $date\n"
+          url_filter: "about,tags,categories"
+          template: "- [$title]($url)"
           date_format: "yyyy-MM-dd"
