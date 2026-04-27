@@ -1,0 +1,22 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정 UTC 실행
+  workflow_dispatch:       # 수동 실행 허용
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://yoonky-kor.github.io/index.xml"
+          max_post_count: 3
+          readme_path: README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          template: "- [$title]($url) — $date\n"
+          date_format: "yyyy-MM-dd"
