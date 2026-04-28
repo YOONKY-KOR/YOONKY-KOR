@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- 방문자 카운터 -->
-<img src="https://komarev.com/ghpvc/?username=YOONKY-KOR&style=flat-square&color=0078D4&label=Profile+Views" alt="Visitor Badge">
+<picture><img src="https://komarev.com/ghpvc/?username=YOONKY-KOR&style=flat-square&color=0078D4&label=Profile+Views" alt="Visitor Badge"></picture>
 
 <!-- 인사말 제목 -->
 # Hi, I'm KY 👋
@@ -24,23 +24,23 @@
 
 **Cloud & Infra**
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<picture><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></picture> <picture><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></picture> <picture><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"></picture> <picture><img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep"></picture> <picture><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></picture> <picture><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></picture>
 
 **AI & Automation**
 
-<img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logoColor=white" alt="Claude AI"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain">
+<picture><img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logoColor=white" alt="Claude AI"></picture> <picture><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"></picture> <picture><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain"></picture>
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+<picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></picture> <picture><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></picture> <picture><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></picture> <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></picture> <picture><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"></picture>
 
 **Database & Storage**
 
-<img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cosmos DB"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<picture><img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cosmos DB"></picture> <picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></picture> <picture><img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></picture>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+<picture><img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo"></picture> <picture><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></picture>
 
 ---
 
@@ -80,4 +80,4 @@
 
 ## 📬 Contact
 
-<img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/rkdduf86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+[![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://yoonky-kor.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonky0917/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOONKY-KOR) [![Email](https://img.shields.io/badge/rkdduf86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdduf86@gmail.com)
