@@ -2,7 +2,7 @@
   GitHub 프로필 README — YOONKY-KOR/YOONKY-KOR
   렌더링 시 주석은 보이지 않습니다.
   배지를 삭제하려면 해당 ![배지이름](...) 부분만 지우세요.
-  Last updated: 2026-04-27
+  Last updated: 2026-04-28
   ============================================================ -->
 
 <div align="center">
@@ -80,4 +80,4 @@
 
 ## 📬 Contact
 
-[![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://yoonky-kor.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoonky0917/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOONKY-KOR) [![Email](https://img.shields.io/badge/rkdduf86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdduf86@gmail.com)
+![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Email](https://img.shields.io/badge/rkdduf86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
