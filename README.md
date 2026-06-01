@@ -48,13 +48,13 @@
 
 <div align="center"><picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats.as93.net/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=1d1e20&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&custom_title=KY's%20GitHub" />
-  <img src="https://github-stats.as93.net/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0078D4&icon_color=0078D4&rank_icon=github&custom_title=KY's%20GitHub"
+    srcset="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=1d1e20&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&custom_title=KY's%20GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOONKY-KOR&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0078D4&icon_color=0078D4&rank_icon=github&custom_title=KY's%20GitHub"
     alt="GitHub Stats" height="165" />
 </picture><picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats.as93.net/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=1d1e20&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-  <img src="https://github-stats.as93.net/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=ffffff&title_color=0078D4&langs_count=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=1d1e20&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOONKY-KOR&layout=compact&hide_border=true&bg_color=ffffff&title_color=0078D4&langs_count=6"
     alt="Top Languages" height="165" />
 </picture></div>
 
