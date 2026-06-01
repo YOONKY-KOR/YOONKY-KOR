@@ -2,7 +2,7 @@
   GitHub 프로필 README — YOONKY-KOR/YOONKY-KOR
   렌더링 시 주석은 보이지 않습니다.
   배지를 삭제하려면 해당 <img src="..."> 부분만 지우세요.
-  Last updated: 2026-04-28
+  Last updated: 2026-06-01
   ============================================================ -->
 
 <div align="center">
